@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774529641328",
+    "firebase_url": "https://hairsalon-496a5.firebaseio.com",
+    "project_id": "hairsalon-496a5",
+    "storage_bucket": "hairsalon-496a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774529641328:android:769b16ab7aa89ce1b4bdb5",
+        "android_client_info": {
+          "package_name": "com.example.hairsalon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774529641328-iklttuuidl29cun519teqtcun0l60v2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hairsalon",
+            "certificate_hash": "ee8264b18955b01c1a5794c6688882e03b0acaef"
+          }
+        },
+        {
+          "client_id": "774529641328-655rb2422861scklkqj54d451tl57gb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDJxGOkjuPRPHiP4c6T4oTLZXpIBmYGSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774529641328-655rb2422861scklkqj54d451tl57gb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
